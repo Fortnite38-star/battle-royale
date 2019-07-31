@@ -1413,9 +1413,6 @@ body {
   background: #ff3366 !important;
   box-shadow: none !important;
 }
-.cid-rxD1Bn3oze {
-  background-image: url("../../../assets/images/background4.jpg");
-}
 .cid-qTkA127IK8 {
   background-image: url("../../../assets/images/fo-1021x512.jpeg");
 }
@@ -1709,112 +1706,25 @@ body {
   color: #ff3366;
   text-align: left;
 }
-.cid-rxD9LId1D6 {
-  padding-top: 90px;
-  padding-bottom: 90px;
-}
-.cid-rxD9LId1D6 .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-rxD9LId1D6 .btn {
-  margin: 0 0 .5rem 0;
-}
-.cid-rxD9LId1D6 .content-row {
-  flex-direction: row-reverse;
-  -webkit-flex-direction: row-reverse;
-}
-.cid-rxCDqpMSCw {
-  background-image: url("../../../assets/images/fortnite-creative-codes-edit-course-900x507.jpeg");
-}
-.cid-rxCDqpMSCw .mbr-text,
-.cid-rxCDqpMSCw .mbr-section-btn {
-  color: #07ff37;
-}
-.cid-rxCDqpMSCw H1 {
-  color: #f90000;
-}
-.cid-rxCHlIFupr {
-  padding-top: 30px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
-}
-.cid-rxCHlIFupr .line {
-  background-color: #149dcc;
-  color: #149dcc;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-rxCHlIFupr .section-text {
-  padding: 2rem 0;
-}
-.cid-rxCHlIFupr .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-rxCHlIFupr .inner-container {
-    width: 100% !important;
-  }
-}
-.cid-rxCHEuyGxd {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #efefef;
-}
-.cid-rxCHEuyGxd .card-img {
-  background-color: #fff;
-}
-.cid-rxCHEuyGxd .card-box {
-  padding: 2rem;
-  background-color: #ffffff;
-}
-.cid-rxCHEuyGxd h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-}
-.cid-rxCHEuyGxd p {
-  text-align: left;
-}
-.cid-rxCHEuyGxd .mbr-text {
-  color: #767676;
-}
-.cid-rxCHEuyGxd .card-wrapper {
-  height: 100%;
-  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
-  transition: box-shadow 0.3s;
-}
-.cid-rxCHEuyGxd .card-wrapper:hover {
-  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
-  transition: box-shadow 0.3s;
-}
-@media (min-width: 992px) {
-  .cid-rxCHEuyGxd .my-col {
-    flex: 0 0 20%;
-    max-width: 20%;
-    padding: 15px;
-    -webkit-flex: 0 0 20%;
-  }
-}
-.cid-rxMwMKRUlh {
+.cid-rxNh6lNo2C {
   padding-top: 90px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
-.cid-rxMwMKRUlh .mbr-section-subtitle {
+.cid-rxNh6lNo2C .mbr-section-subtitle {
   color: #767676;
   font-weight: 300;
 }
-.cid-rxMwMKRUlh .mbr-content-text {
+.cid-rxNh6lNo2C .mbr-content-text {
   color: #0f7699;
   margin-bottom: 0;
 }
-.cid-rxMwMKRUlh .card {
+.cid-rxNh6lNo2C .card {
   word-wrap: break-word;
   flex-shrink: 0;
   -webkit-flex-shrink: 0;
 }
-.cid-rxMwMKRUlh .img-text {
+.cid-rxNh6lNo2C .img-text {
   width: 64px;
   height: 64px;
   font-size: 32px;
@@ -1822,22 +1732,22 @@ body {
   border-radius: 50%;
 }
 @media (max-width: 991px) {
-  .cid-rxMwMKRUlh .img-text {
+  .cid-rxNh6lNo2C .img-text {
     width: 48px;
     height: 48px;
     font-size: 24px;
   }
 }
 @media (min-width: 992px) {
-  .cid-rxMwMKRUlh .cards-block {
+  .cid-rxNh6lNo2C .cards-block {
     border-top: 2px solid #efefef;
   }
 }
-.cid-rxMwMKRUlh .cards-block .card {
+.cid-rxNh6lNo2C .cards-block .card {
   border-bottom: 2px solid #efefef;
   border-radius: 0;
 }
-.cid-rxMwMKRUlh .cards-container {
+.cid-rxNh6lNo2C .cards-container {
   display: flex;
   -webkit-flex-direction: row;
   flex-direction: row;
@@ -1847,48 +1757,96 @@ body {
   justify-content: center;
   word-break: break-word;
 }
-.cid-rxMwMKRUlh .media-block {
+.cid-rxNh6lNo2C .media-block {
   flex-shrink: 0;
   -webkit-flex-shrink: 0;
 }
 @media (min-width: 992px) {
-  .cid-rxMwMKRUlh .media-block {
+  .cid-rxNh6lNo2C .media-block {
     padding-left: 2rem;
   }
 }
-.cid-rxMwMKRUlh .cards-block {
+.cid-rxNh6lNo2C .cards-block {
   flex-basis: 100%;
   -webkit-flex-basis: 100%;
 }
 @media (max-width: 991px) {
-  .cid-rxMwMKRUlh .media-block {
+  .cid-rxNh6lNo2C .media-block {
     flex-basis: 100%;
     -webkit-flex-basis: 100%;
     padding-left: 0;
     padding-bottom: 2rem;
   }
 }
-.cid-rxMwMKRUlh .media-container-row {
+.cid-rxNh6lNo2C .media-container-row {
   -webkit-flex-direction: row-reverse;
   flex-direction: row-reverse;
 }
-.cid-rxCuz97xmQ {
+.cid-rxNh7Hv8eL {
+  background-image: url("../../../assets/images/background4.jpg");
+}
+.cid-rxNhTOyRFt {
+  background-image: url("../../../assets/images/fortnite-creative-codes-edit-course-900x507.jpeg");
+}
+.cid-rxNhTOyRFt .mbr-text,
+.cid-rxNhTOyRFt .mbr-section-btn {
+  color: #07ff37;
+}
+.cid-rxNhTOyRFt H1 {
+  color: #f90000;
+}
+.cid-rxNhUpjTHb {
   padding-top: 90px;
   padding-bottom: 90px;
   background-color: #efefef;
 }
-.cid-rxCuz97xmQ P {
+.cid-rxNhUpjTHb .card-img {
+  background-color: #fff;
+}
+.cid-rxNhUpjTHb .card-box {
+  padding: 2rem;
+  background-color: #ffffff;
+}
+.cid-rxNhUpjTHb h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-rxNhUpjTHb p {
+  text-align: left;
+}
+.cid-rxNhUpjTHb .mbr-text {
   color: #767676;
 }
-.cid-rxCQaisG5t {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background: linear-gradient(45deg, #55b4d4, #073b4c);
+.cid-rxNhUpjTHb .card-wrapper {
+  height: 100%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
 }
-.cid-rxCRLXRoG4 {
+.cid-rxNhUpjTHb .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+@media (min-width: 992px) {
+  .cid-rxNhUpjTHb .my-col {
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
+    -webkit-flex: 0 0 20%;
+  }
+}
+.cid-rxNi2mxNtK {
   background-image: url("../../../assets/images/xynmxebt0ro-537x240.jpeg");
 }
-.cid-rxCRLXRoG4 .mbr-text,
-.cid-rxCRLXRoG4 .mbr-section-btn {
+.cid-rxNi2mxNtK .mbr-text,
+.cid-rxNi2mxNtK .mbr-section-btn {
   color: #f90000;
+}
+.cid-rxNi9mIYTH {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-rxNi9mIYTH P {
+  color: #767676;
 }
